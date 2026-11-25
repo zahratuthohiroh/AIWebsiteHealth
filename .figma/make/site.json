@@ -1,0 +1,10 @@
+{
+  "description": "An Indonesian mental wellness platform helping people understand their emotional well-being through structured assessments, AI-guided conversations, and practical follow-up resources.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
